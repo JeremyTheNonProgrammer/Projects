@@ -32,10 +32,9 @@ ul,.info{
 }
 
 .info{
-	color: #4F331A;
-	font-family: serif;
     background-color: #F3C892;
-    height: 25%;
+	font-family: serif;
+    color: #4F331A;
 }
 
 /** html {
