@@ -1,4 +1,30 @@
-html {
+body {
+	background-image: url('../Images/Background.png');
+	background-size: cover;
+	background-blend-mode: luminosity;
+}
+
+.text {
+	font-size: 50px;
+	text-align: center;
+	font-family: fantasy;
+	color: #4F331A ;
+}
+
+.pamphlet{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+  	max-width:75%;
+  	height: auto;
+}
+
+
+
+
+
+
+/** html {
 	font-size: 62.5%;
 }
 
@@ -90,3 +116,5 @@ div.footer a{
 	background-color: #FFAC00;
 	max-width: inherit;
 }
+
+**/ 
