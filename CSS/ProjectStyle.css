@@ -10,7 +10,7 @@ body {
 }
 
 .text {
-	font-size: 50px;
+	font-size: 35px;
 	text-align: center;
 	font-family: fantasy;
 	color: #4F331A ;
@@ -19,12 +19,16 @@ body {
 .pamphlet{
 	display: block;
 	margin: auto;
-  	width:80%;
+  	width:90%;
   	height: auto;
 }
 
 .link{
 	width: 100%;
+}
+
+ul{
+	font-size: 12px;
 }
 
 
