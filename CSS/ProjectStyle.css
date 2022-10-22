@@ -1,7 +1,7 @@
 *{
 
 }
-body {
+body{
 	background-image: url('../Images/Background.png');
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -27,13 +27,16 @@ body {
 	width: 100%;
 }
 
-ul{
+ul,.info{
 	font-size: 12px;
 }
 
-
-
-
+.info{
+	height: 25%;
+	color: #4F331A;
+	font-family: serif;
+    background-color: #F3C892;
+}
 
 /** html {
 	font-size: 62.5%;
