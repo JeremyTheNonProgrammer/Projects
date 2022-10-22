@@ -1,7 +1,12 @@
+*{
+
+}
 body {
 	background-image: url('../Images/Background.png');
 	background-size: cover;
-	background-blend-mode: luminosity;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
 }
 
 .text {
@@ -13,12 +18,14 @@ body {
 
 .pamphlet{
 	display: block;
-	margin-right: auto;
-	margin-left: auto;
-  	max-width:75%;
+	margin: auto;
+  	width:80%;
   	height: auto;
 }
 
+.link{
+	width: 100%;
+}
 
 
 
