@@ -32,10 +32,10 @@ ul,.info{
 }
 
 .info{
-	height: 25%;
 	color: #4F331A;
 	font-family: serif;
     background-color: #F3C892;
+    height: 25%;
 }
 
 /** html {
